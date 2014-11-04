@@ -9,6 +9,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h1>Eclipse to GitHub to Jenkins to Tomcat plus auto</h1>
     </body>
 </html>
