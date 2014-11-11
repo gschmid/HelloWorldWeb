@@ -8,6 +8,6 @@
         <title>CI Test Site</title>
     </head>
     <body>
-        <h1>Blue Chip test website</h1>
+        <h1>Jenkins CI Tomcat deployment test</h1>
     </body>
 </html>
