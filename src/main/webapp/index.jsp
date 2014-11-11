@@ -8,6 +8,6 @@
         <title>CI Test Site</title>
     </head>
     <body>
-        <h1>Automatic success deployment</h1>
+        <h1>Automatic success one more time deployment</h1>
     </body>
 </html>
