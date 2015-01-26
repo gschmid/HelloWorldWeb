@@ -8,6 +8,6 @@
         <title>CI Test Site</title>
     </head>
     <body>
-        <h1>Hola World from Eclipse to GitHub to Jenkins to Tomcat</h1>
+        <h1>Hola World from Eclipse to GitHub to Jenkins to Tomcat . . . .</h1>
     </body>
 </html>
